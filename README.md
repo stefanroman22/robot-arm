@@ -11,7 +11,7 @@ This project presents a robotic arm that mimics the real-time movements of a hum
 - **Safety Mechanisms**: Prevents overloading of motors with angle clamping.
 
 ## Table of Contents
-1. [Hardware Requirements](#hardware-requirements)
+1. [Hardware Requirements](##hardware-requirements)
 2. [Software Setup](#software-setup)
 3. [Usage Instructions](#usage-instructions)
 4. [Project Architecture](#project-architecture)
